@@ -26,5 +26,17 @@ export class AppComponent {
     userName : "mount",
     content : "paragraph three"
   },
+  {
+    title : "biking",
+    imageUrl : "assets/biking.jpeg",
+    userName : "biker",
+    content : "paragraph two"
+  },
+  {
+    title : "mountain",
+    imageUrl : "assets/mountain.jpeg",
+    userName : "mount",
+    content : "paragraph three"
+  },
  ];
 }
